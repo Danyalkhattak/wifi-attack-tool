@@ -1,5 +1,6 @@
-
+![Thumbnail](./images.jpeg)
 # 🔥 Wi-Fi Attack Automation Tool (Kali Linux & Windows PowerShell) 🔥
+
 
 This tool allows you to automate Wi-Fi attacks such as Deauthentication, Evil Twin, and WPA Handshake Capture in **Kali Linux**, and enables Wi-Fi scanning and learning features in **Windows PowerShell**. Perfect for cybersecurity students and professionals!
 
