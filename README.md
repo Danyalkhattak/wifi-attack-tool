@@ -1,4 +1,7 @@
-![Thumbnail](./images.jpeg)
+<p align="center">
+  <img src="./images.jpeg" alt="Thumbnail" />
+</p>
+
 # 🔥 Wi-Fi Attack Automation Tool (Kali Linux & Windows PowerShell) 🔥
 
 
