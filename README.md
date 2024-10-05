@@ -31,7 +31,7 @@ sudo apt-get install aircrack-ng hostapd dnsmasq
 
 #### 2. Clone the Repo
 ```bash
-git clone https://github.com/yourusername/wifi-attack-tool.git
+git clone https://github.com/Danyalkhattak/wifi-attack-tool.git
 cd wifi-attack-tool
 ```
 
@@ -53,7 +53,7 @@ sudo python3 main.py
 For Windows PowerShell, you can clone the repository by running:
 
 ```powershell
-git clone https://github.com/yourusername/wifi-attack-tool.git
+git clone https://github.com/Danyalkhattak/wifi-attack-tool.git
 cd wifi-attack-tool
 ```
 
