@@ -1,1 +1,1 @@
-scapy
+rich
